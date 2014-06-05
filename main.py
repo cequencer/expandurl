@@ -8,7 +8,7 @@ import json
 import google.appengine.api.urlfetch;
 
 
-max_redirects = 10
+max_redirects = 50
 url_regex = re.compile("^\w+:\/\/.+$")
 
 
