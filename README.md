@@ -1,7 +1,7 @@
 ExpandURL
 =========
 
-This is the source code for the [ExpandURL](http://expandurl.appspot.com) Google App Engine site. Due to it outgrowing the GAE free plan I'm open-sourcing it so whoever needs it can run their own instance.
+This is a fork of the source code for the [ExpandURL](http://expandurl.appspot.com) Google App Engine site.
 
 License
 =======
